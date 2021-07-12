@@ -1,1 +1,21 @@
 Mobile 01
+
+     android:scheme="https" />
+                <data
+                    android:host="ec.ubook.com"
+                    android:pathPrefix="/home"
+                    android:scheme="https" />
+                <data
+                    android:host="ec.ubook.com"
+                    android:pathPrefix="/chapter"
+                    android:scheme="https" />
+                <data
+                    android:host="ec.ubook.com"
+                    android:pathPrefix="/chapter"
+                    android:scheme="https" />
+                <data
+                    android:host="ec.ubook.com"
+                    android:pathPrefix="/chapter"
+                    android:scheme="https" />
+                    
+     Mudanças feitas com sucesso!
